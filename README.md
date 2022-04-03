@@ -4,10 +4,11 @@
 <hr/>
 <p>je m'appelle Sami j'ai 22 ans je suis actuellement en bachelor Web À l'école hetic 🌙</p>
 <hr/>
-<h3>📈GitHub Stats</h3>
+<h3>📈 GitHub Stats : </h3>
+<br/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aboalsim114&count_private=true&theme=tokyonight&showicons=true)]<br/> <br/>()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aboalsim114&count_private=true&theme=tokyonight&showicons=true)]<br/> <br/>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&langs_count=5&theme=tokyonight)]
 
 
 

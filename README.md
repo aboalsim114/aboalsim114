@@ -1,5 +1,8 @@
- <h1 align="center">🏁 🍇😀 🔤Hello, World!🔤❗️🍉 </h1>
-<h2 align="center"> Je Suis un Developpur Web FullStack</h2>
+ <img  src="https://user-images.githubusercontent.com/59802097/161453826-8d7e6b35-df11-4755-8c97-461cea76bd09.png" alt="banner"/>
+ <h1 align="center">Salut Je Sami ABDULHALIM ✌</h1>
+<h2 align="center"> Je suis un Developpur Web FullStack ReactJs/NodeJs 🦾</h2>
+<hr/>
+<p>je m'appelle Sami j'ai 22 ans je suis actuellement en bachelor Web À l'école hetic 🌙</p>
 <!--
 **aboalsim114/aboalsim114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

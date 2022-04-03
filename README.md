@@ -1,4 +1,4 @@
- Salut je suis Sami ABDULHALIM ✌
+ <h1 align="center">Salut je Suis Sami ABDULHALIM ✌</h1>
  Je Suis un Developpur Web FullStack
 
 <!--

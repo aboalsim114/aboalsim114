@@ -10,5 +10,12 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aboalsim114&count_private=true&theme=tokyonight&showicons=true)]<br/> <br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&langs_count=5&theme=tokyonight)]
 
+<hr/>
+<br/>
+<h3>Mes Compétences :  </h3>
 
-
+<div id="badges">
+    <img src="https://img.shields.io/badge/HTML-yellow" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/CSS-red" alt="LinkedIn Badge"/>
+ 
+</div>

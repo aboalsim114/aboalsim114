@@ -2,7 +2,7 @@
  <h1 align="center">Salut Je Sami ABDULHALIM ✌</h1>
 <h2 align="center"> Je suis un Developpur Web FullStack ReactJs/NodeJs 🦾</h2>
 <hr/>
-<p>je m'appelle Sami j'ai 22 ans je suis actuellement en bachelor Web À l'école hetic 🌙</p>
+<p>je m'appelle Sami j'ai 22 ans je suis actuellement Étudiant développeur web   dans l'Établissement d'enseignement supérieur à HETIC 🌙</p>
 <hr/>
 <h3>📈 GitHub Stats : </h3>
 <br/>
@@ -17,5 +17,13 @@
 <div id="badges">
     <img src="https://img.shields.io/badge/HTML-yellow" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/CSS-red" alt="LinkedIn Badge"/>
- 
+  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/Python-green" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/PHP-violet" alt="LinkedIn Badge"/>
+ <br/>
+  <img src="https://img.shields.io/badge/Framework%20%3A%20-ReactJs-orange" alt="LinkedIn Badge"/>
+ <br/>
+ <img src="https://img.shields.io/badge/Framework%20%3A%20-NodeJs%2FExpress.js-blue" alt="LinkedIn Badge"/>
+ <br/>
+  <img src="https://img.shields.io/badge/BDD%20%3A%20-MYSQL-VIOLET" alt="LinkedIn Badge"/>
 </div>

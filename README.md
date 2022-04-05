@@ -4,6 +4,7 @@
 
 <hr/>
 <p>je m'appelle Sami j'ai 22 ans je suis actuellement Étudiant développeur web   dans l'Établissement d'enseignement supérieur à HETIC 🌙</p>
+<p>Mon parcours, complété par ma passion pour internet et l'informatique, m'a permis d'acquérir les connaissances techniques et pratiques indispensables à l'exercice de ce métier. Maîtrisant différents langages</p>
 <hr/>
 <h3>📈 GitHub Stats : </h3>
 <br/>

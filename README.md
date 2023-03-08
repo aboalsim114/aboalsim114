@@ -3,8 +3,8 @@
 <h2 align="center"> Je suis un Developpur Web FullStack ReactJs/NodeJs 🦾</h2>
 
 <hr/>
-<p>je m'appelle Sami j'ai 22 ans je suis actuellement Étudiant développeur web   dans l'Établissement d'enseignement supérieur à HETIC 🌙</p>
-<p>Mon parcours, complété par ma passion pour internet et l'informatique, m'a permis d'acquérir les connaissances techniques et pratiques indispensables à l'exercice de ce métier. Maîtrisant différents langages</p>
+<p>Je m'appelle Sami, j'ai 22 ans et je suis actuellement en Bachelor Développement Web & Mobile a l'ecole ECE Paris pour devenir développeur web full-stack. 🌙</p>
+<p>Après celle-ci je souhaiterais poursuivre sur un master pour élargir mes compétences dans le domaine du web. J'aime toucher à tout et être autonome sur les projets que l'on me confie, cependant j'apporte une affection supplémentaire au développement dit back-end, notamment avec PHP.</p>
 <hr/>
 <h3>📈 GitHub Stats : </h3>
 <br/>

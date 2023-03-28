@@ -1,4 +1,11 @@
 
+<h3>📈 GitHub Stats : </h3>
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=aboalsim114&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/><hr/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aboalsim114&theme=blue-green&hide_border=false)<br/><hr/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <hr/>
 <br/>
 <h3>Mes Compétences :  </h3>

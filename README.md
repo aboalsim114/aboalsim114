@@ -1,17 +1,3 @@
- <img  src="https://user-images.githubusercontent.com/59802097/161453826-8d7e6b35-df11-4755-8c97-461cea76bd09.png" alt="banner"/>
- <h1 align="center">Salut Je Sami ABDULHALIM ✌</h1>
-<h2 align="center"> Je suis un Developpur Web FullStack ReactJs/NodeJs 🦾</h2>
-
-<hr/>
-<p>Je m'appelle Sami, j'ai 22 ans et je suis actuellement en Bachelor Développement Web & Mobile a l'ecole ECE Paris pour devenir développeur web full-stack. 🌙</p>
-<p>Après celle-ci je souhaiterais poursuivre sur un master pour élargir mes compétences dans le domaine du web. J'aime toucher à tout et être autonome sur les projets que l'on me confie, cependant j'apporte une affection supplémentaire au développement dit back-end, notamment avec PHP.</p>
-<hr/>
-<h3>📈 GitHub Stats : </h3>
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=aboalsim114&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/><hr/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aboalsim114&theme=blue-green&hide_border=false)<br/><hr/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <hr/>
 <br/>

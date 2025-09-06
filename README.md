@@ -1,27 +1,130 @@
-[![DALL-E-2023-10-20-19-21-14-Illustration-A-scene-with-a-stylized-silhouette-of-a-person-coding-on.png](https://i.postimg.cc/FK4VxhL5/DALL-E-2023-10-20-19-21-14-Illustration-A-scene-with-a-stylized-silhouette-of-a-person-coding-on.png)](https://postimg.cc/NKdXsqDp)
-# 💫 About Me:
-🔭 Actuellement :<br>Je suis en 3ème année de Bachelor Web à l'ECE Paris.<br><br>👯 Collaboration :<br>Je m'appelle Sami et je suis passionné par le monde du développement web et du design.<br><br>🤝 Aide :<br>Je recherche des opportunités pour collaborer et évoluer dans le domaine du web.<br><br>🌱 Apprentissage :<br>J'ai un solide intérêt pour les nouvelles technologies et je suis motivé pour apprendre et progresser dans cette industrie en constante évolution.<br><br>💬 Demandez-moi :<br>N'hésitez pas à me poser des questions sur mon parcours, mes compétences ou tout autre sujet lié au développement web.<br><br>⚡ Fun fact :<br>Impatient de découvrir les opportunités professionnelles qui s'offrent à moi.
+# 👨‍💻 sami abdulhalim | Full Stack Developer
+### 🚀 Building the future, one commit at a time
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-abdulhalim) 
+## 🎯 Current Focus
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aboalsim114&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aboalsim114&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aboalsim114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aboalsim114&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Working on: **Improving my full-stack development skills and contributing to open-source projects.** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Advanced React concepts, and exploring new frameworks like Svelte.** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Interesting and challenging projects that leverage cutting-edge technologies.**
+- 💬 Ask me about: **Full-stack development, JavaScript frameworks, database design, and cloud technologies.** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I enjoy learning new things and solving complex problems.** <!-- TODO: Add a fun fact -->
 
 
+## 🛠️ Technology Arsenal
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- TODO: Add/remove languages based on your actual skills -->
+
+### 🚀 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<!-- TODO: Add your actual frameworks -->
+
+### ☁️ Cloud & DevOps
+<!-- TODO: Add your cloud/devops tools -->
+
+### 🗄️ Databases
+<!-- TODO: Add your databases -->
+
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aboalsim114&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboalsim114&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aboalsim114&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+</p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aboalsim114&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboalsim114&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/aboalsim114" alt="Contribution Calendar" width="100%"/>
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section -->
+<!--END_SECTION:activity-->
+
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+<!-- TODO: Replace with actual project -->
+<!-- TODO: Replace with actual project -->
+<!-- TODO: Replace with actual project -->
+
+</div>
+
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+<!-- TODO: Add your LinkedIn -->
+<!-- TODO: Add your Twitter -->
+<!-- TODO: Add your portfolio -->
+<!-- TODO: Add your email -->
+<!-- TODO: Add your blog -->
+
+### 📱 Social Presence
+
+[![GitHub followers](https://img.shields.io/github/followers/aboalsim114?style=social)](https://github.com/aboalsim114)
+
+
+</div>
+
+
+---
+
+## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+<!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+<!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
+<!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aboalsim114&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+

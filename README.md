@@ -1,7 +1,5 @@
-<h1 align="center">Sami Abdulhalim</h1>
 <p align="center">
-  <b>Full-Stack Developer · React / Next.js · Django</b><br/>
-  Master's student in Web Engineering @ ESGI Paris · Moving toward AI engineering (LLM agents, LangGraph)
+  <img src="./banner.svg" alt="Sami Abdulhalim — Full-Stack Developer · React / Next.js · Django" width="100%"/>
 </p>
 
 <p align="center">
@@ -33,13 +31,13 @@
 |---|---|---|
 | [**Strike Shop**](https://github.com/aboalsim114/Strike_Shop) · [API](https://github.com/aboalsim114/Strike_Shop_API) | Mobile e-commerce app with Stripe payments | React Native (Expo), TypeScript, Redux Toolkit, Django |
 | [**YallaShoot**](https://github.com/aboalsim114/yalla_shoot_Frontend) · [API](https://github.com/aboalsim114/Yalla_Shoot_API) | Platform to create teams, schedule and join football matches | React, Python API |
-| [**Film Rental API**](https://github.com/aboalsim114/film_rental_backend) | REST API managing films, customers and rentals | TypeScript, Node.js |
+| [**Film Rental API**](https://github.com/aboalsim114/film_rental_backend) | REST API managing films, customers and rentals | NestJS, TypeScript, Docker |
 | [**Batcave Security**](https://github.com/aboalsim114/batcave-security) | Secure authentication server: hashed passwords, sessions, badge system | Node.js, Express, bcrypt, SQLite |
 | [**FlexiJS**](https://github.com/aboalsim114/FlexiJS) | Small JavaScript utility library with a CLI | JavaScript, Babel, Commander |
 
-### GitHub stats
+### Currently
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aboalsim114&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=aboalsim114&hide_border=true&theme=transparent" alt="Streak"/>
-</p>
+- 🧠 Building multi-agent tools with **LangGraph** and local LLMs
+- 🎨 Rebuilding my portfolio with **Three.js / WebGL**
+
+<p align="center"><sub>Open to feedback, collaborations and interesting projects — reach out on <a href="https://www.linkedin.com/in/sami-abdulhalim/">LinkedIn</a>.</sub></p>

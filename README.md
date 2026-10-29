@@ -8,36 +8,35 @@
   <a href="mailto:sami.abdulhalim.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+I build full-stack web apps with **React / Next.js** and **Django**, ship them with **Docker** on **AWS**, and I'm now focused on **AI engineering**: LLM agents with **LangGraph** and local models.
 
-### About me
-
-- 🛠️ I build full-stack web apps: **React / Next.js** on the front, **Django** on the back, deployed on **AWS** with **Docker**.
-- 🤖 Currently going deeper into **AI engineering**: LLM agents, **LangGraph**, local models with **Ollama**, automation.
-- 🎓 4th year, Master's in Web Engineering at **ESGI Paris** (work-study).
-- 📍 Paris, France — open to discussing interesting projects.
-
-### Tech stack
+4th-year Master's student in Web Engineering at **ESGI Paris** (work-study) · based in Paris.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php&theme=dark" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,nodejs,express,django,symfony&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,aws,vercel,git,linux&theme=dark" alt="Data & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,django,nodejs,postgres,docker,aws&theme=dark" alt="TypeScript, Python, React, Next.js, Django, Node.js, PostgreSQL, Docker, AWS"/>
 </p>
 
-### Featured projects
+## Featured work
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Strike Shop**](https://github.com/aboalsim114/Strike_Shop) · [API](https://github.com/aboalsim114/Strike_Shop_API) | Mobile e-commerce app with Stripe payments | React Native (Expo), TypeScript, Redux Toolkit, Django |
-| [**YallaShoot**](https://github.com/aboalsim114/yalla_shoot_Frontend) · [API](https://github.com/aboalsim114/Yalla_Shoot_API) | Platform to create teams, schedule and join football matches | React, Python API |
-| [**Film Rental API**](https://github.com/aboalsim114/film_rental_backend) | REST API managing films, customers and rentals | NestJS, TypeScript, Docker |
-| [**Batcave Security**](https://github.com/aboalsim114/batcave-security) | Secure authentication server: hashed passwords, sessions, badge system | Node.js, Express, bcrypt, SQLite |
-| [**FlexiJS**](https://github.com/aboalsim114/FlexiJS) | Small JavaScript utility library with a CLI | JavaScript, Babel, Commander |
+**[Strike Shop](https://github.com/aboalsim114/Strike_Shop)** · [API](https://github.com/aboalsim114/Strike_Shop_API) — mobile e-commerce app
+<br/><sub>React Native (Expo) · TypeScript · Redux Toolkit · Stripe · Django</sub><br/>
+Full purchase flow: auth, catalog, reviews, persisted cart, Stripe card payments and order history, with one Redux slice per domain.
 
-### Currently
+**[Batcave Security](https://github.com/aboalsim114/batcave-security)** — secure authentication server
+<br/><sub>Node.js · Express · SQLite · bcrypt</sub><br/>
+bcrypt password hashing, session regeneration against fixation, hardened session settings, prepared statements, Basic auth for API clients, tests with `node:test`.
 
-- 🧠 Building multi-agent tools with **LangGraph** and local LLMs
+**[Film Rental API](https://github.com/aboalsim114/film_rental_backend)** — REST API
+<br/><sub>NestJS · TypeScript · Docker</sub><br/>
+Films, customers and rentals management, containerized with Docker Compose.
+
+**[YallaShoot](https://github.com/aboalsim114/yalla_shoot_Frontend)** · [API](https://github.com/aboalsim114/Yalla_Shoot_API) — football match platform
+<br/><sub>React · Python</sub><br/>
+Create teams, schedule matches and register for existing games.
+
+## Currently
+
+- 🧠 Building multi-agent tools with **LangGraph** and local LLMs (Ollama)
 - 🎨 Rebuilding my portfolio with **Three.js / WebGL**
 
-<p align="center"><sub>Open to feedback, collaborations and interesting projects — reach out on <a href="https://www.linkedin.com/in/sami-abdulhalim/">LinkedIn</a>.</sub></p>
+<sub>Open to feedback, collaborations and interesting projects — the fastest way to reach me is [email](mailto:sami.abdulhalim.pro@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sami-abdulhalim/).</sub>
